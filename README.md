@@ -5,9 +5,6 @@
   <a href="https://www.linkedin.com/in/joy-ugoyah/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
   <a href="https://twitter.com/chiemali">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> 
@@ -23,6 +20,9 @@
 
 I am Joy Ugoyah, a Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and Petroleum Engineer.
 
+My focus: development and deployment of enterprise-scale AI solutions in diverse use cases within the energy industry, fintech, blockchain and other tech applications.
+
+I have had excellent experience in machine learning model development and deployment, supervised and unsupervised learning, Heroku webapp deployment, ML models tailored to petroleum processes, cybersecurity, and asset price prediction.
 
 ---
 
@@ -39,8 +39,56 @@ I am Joy Ugoyah, a Machine Learning Engineer <img src="https://media.giphy.com/m
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 </p>
+
 ---
 
+🔭 I’m currently working on:
+  - an AI oil and gas scale prediction software using machine learning (deployment phase),
+  - a Cybersecurity Network Intruision detection system, NIDS (Deep learning x Machine learning),
+  - AI oil production prediction.
+
+
+🌱 I’m currently learning:
+  - Machine learning model deployment
+
+
+👯 I’m looking to collaborate on AI solutions and research in the energy industry. 
+
+
+💬 Ask me about machine learning, AI, petroleum engineering, NFTs and anything else on your mind.
+ 
+ 
+📫 Chat with me: joyugoyah10@gmail.com
+
+😄 Pronouns: she/her
+
+<!--
+⚡ Fun fact: I love to paint & draw... and to be close to water bodies
+-->
+
+---
+
+**Videos**
+
+[Practical Application of AI in Petroleum Production - Case study: prediction of scale deposition using machine learning](https://youtu.be/9sKz4Dfi_EU 'click here')
+
+---
+
+**Articles**
+
+[Problem solving and design thinking in Machine Learning and Artificial Intelligence](https://medium.com/@joyugoyah10/problem-solving-and-design-thinking-in-machine-learning-and-artificial-intelligence-40e75710aede)
+
+[Your End-to-End Guide to Solving Machine Learning Problems — A Structured Workflow](https://medium.datadriveninvestor.com/your-end-to-end-guide-to-solving-machine-learning-problems-a-structured-workflow-5045e0102e6)
+
+[A Programmer’s Guide to Learning Effectively](https://medium.com/@joyugoyah10/a-programmers-guide-to-learning-effectively-445499ce936f)
+
+---
+
+**Research publications**
+
+[Applications of AI and Data-Driven Modeling in Energy Production and Marketing Processes](https://doi.org/10.2118/207153-MS)
+
+Prediction of Scale Precipitation by modelling its Thermodynamic Properties using Machine Learning Engineering (Under Review)
 
 
 ---
