@@ -54,9 +54,7 @@ I have had excellent experience in machine learning model development and deploy
 
 👯 I’m looking to collaborate on AI solutions and research in the energy industry. 
 
-
 💬 Ask me about machine learning, AI, petroleum engineering, NFTs and anything else on your mind.
- 
  
 📫 Chat with me: joyugoyah10@gmail.com
 
