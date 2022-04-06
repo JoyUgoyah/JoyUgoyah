@@ -72,7 +72,6 @@ I have had excellent experience in machine learning model development and deploy
 
 [Practical Application of AI in Petroleum Production - Case study: prediction of scale deposition using machine learning](https://youtu.be/9sKz4Dfi_EU 'click here')
 
----
 
 **Articles**
 
@@ -82,7 +81,6 @@ I have had excellent experience in machine learning model development and deploy
 
 [A Programmer’s Guide to Learning Effectively](https://medium.com/@joyugoyah10/a-programmers-guide-to-learning-effectively-445499ce936f)
 
----
 
 **Research publications**
 
