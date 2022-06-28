@@ -12,7 +12,7 @@
   
   <img src="https://komarev.com/ghpvc/?username=JoyUgoyah&style=flat-square&color=blue" alt=""/>
   <h1>
-  Hi there
+  Hi there!
 </h1>
   
 </div>
